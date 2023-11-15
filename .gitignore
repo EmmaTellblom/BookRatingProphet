@@ -1,0 +1,7 @@
+#ignore my personal CSV-files
+goodreads_export_with_genres.csv
+final_predictions_with_actual.csv
+knn_predictions_total.csv
+lm_predictions_total.csv
+rf_predictions_total.csv
+*.Rhistory
