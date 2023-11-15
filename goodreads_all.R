@@ -270,4 +270,4 @@ if (rmse_min_index == 1) {
   write.table(predicted_rf_data, file = 'rf_predictions_total.csv', sep = ';', row.names = FALSE, col.names = TRUE, quote = FALSE)
 }
 
-print(rmse_all)
+#print(rmse_all)
